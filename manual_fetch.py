@@ -1,7 +1,7 @@
-#Created By: Milad Khoshdel | Mikili
-#Blog: https://blog.regux.com
+#Created By: Milad Khoshdel
+#Blog: https://regux.com
 #Email: miladkhoshdel@gmail.com
-#Telegram: @miladkho5hdel
+#Telegram: @miladkhoshdel
 
 
 from ftplib import FTP
